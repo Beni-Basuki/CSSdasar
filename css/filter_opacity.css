@@ -1,0 +1,5 @@
+#myimage {
+    filter: opacity(50%);
+    width: 100px;
+    height: 100px;
+}

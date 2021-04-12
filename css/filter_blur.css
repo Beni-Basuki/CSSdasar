@@ -1,0 +1,4 @@
+#myimage {
+    border: solid 1px black;
+    filter: blur(5px);
+}
